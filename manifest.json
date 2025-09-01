@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ai-agent",
+	"name": "Obsidian AI Agent",
+	"version": "0.1",
+	"minAppVersion": "0.15.0",
+	"description": "An integrated AI agent (currently Claude Code) plugin for Obsidian.",
+	"author": "Martin Mark",
+	"authorUrl": "https://github.com/m-rgba",
+	"isDesktopOnly": true
+}
