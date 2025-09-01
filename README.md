@@ -1,5 +1,7 @@
 # Obsidian AI Agent
 
+https://github.com/user-attachments/assets/3b251604-cf52-4f38-8c9d-fba67e280b64
+
 Bring AI agents directly into your Obsidian vault. This plugin integrates AI agent CLIs (currently Claude Code) seamlessly with Obsidian - allowing you to chat with AI, edit files, and manage your knowledge base without leaving your workspace.
 
 ## Why?
