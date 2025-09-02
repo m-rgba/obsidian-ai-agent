@@ -79,6 +79,7 @@ echo "$(sed -n 's/^exec "\([^"]*\)".*/\1/p' $(which claude))"
 
 ### Obsidian integration
 - [ ] **Context menu integration** - "Add to AI context" from file explorer
+- [ ] **File linking** - Open the files that were read/edited by your model
 - [ ] **Selection-based context** - Include selected text in conversations
 - [ ] **Enhanced copy/paste** - Smart context copy/paste (similar to Cursor)
-- [ ] **Quick commands** - Quick hotkeys and commands for sending re-usable commands for specific context to your AI
+- [ ] **Quick commands** - Quick commands for sending re-usable context to your AI
