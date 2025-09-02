@@ -31,8 +31,8 @@ See the [roadmap](#roadmap) for upcoming features I'm looking to incorporate.
 *Coming soon to the Obsidian community plugin store*
 
 1. **Verify CLI access**: Ensure you can run `claude` in your terminal
-2. **Download**: Get the latest release from the [releases page](../../releases)
-3. **Install**: Extract and place the folder in `[your_vault]/.obsidian/plugins/obsidian-ai-agent`
+2. **Download**: Get the latest release (`obsidian-ai-agent.zip`) from the [releases page](../../releases)
+3. **Install**: Extract from the `obsidian-ai-agent.zip` and place the folder in `[your_vault]/.obsidian/plugins/obsidian-ai-agent`
 4. **Enable**: Activate the plugin in Obsidian's Community Plugins settings
 5. **Start chatting**: Use the AI Agent panel in your workspace right-sidebar
 
